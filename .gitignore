@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large media files
+video.mp4
+*.mp4
+
+# YOLO weights & models
+*.pt
+*.onnx
+yolo11n.pt
+yolo11n.onnx
